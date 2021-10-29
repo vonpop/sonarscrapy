@@ -1,5 +1,8 @@
 # sonarscrapy
 Use scrapy to get metrics from sonarqube.
+
+Dependencies: Python 3.X, Scrapy
+
 Scrapy docs: scrapy.org
 
 # Setup
